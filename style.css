@@ -1,0 +1,25 @@
+h1 {
+    color: rgb(237, 75, 119); font-family: "Verdana";
+}
+
+.menu {
+   background-color: antiquewhite;
+   padding: 12px;
+   border: 2px solid rgb(251, 151, 186);
+   border-radius: 300px;
+   text-decoration: none;
+   color:rgb(250, 108, 174)
+}
+
+a:hover {
+    color: red;
+    background-color: black;
+}
+
+.pineapple{
+    color: rgb(255, 208, 0);
+}
+
+h2 {
+    color: rgb(255, 172, 63); font-family: "Verdana";
+}
