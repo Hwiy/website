@@ -7,9 +7,9 @@ body {
 }
 
 button {
- background-color: green;
+ background-color: #00ff00;
   border: 2px solid white;
-  color: white;
-  padding: 5px 10px;
+  color: #ffff98;
+  padding: 10px 20px;
   cursor: pointer;
 }
