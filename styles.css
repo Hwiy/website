@@ -13,3 +13,8 @@ button {
   padding: 10px 20px;
   cursor: pointer;
 }
+
+button:hover {
+ background-color: #000000;
+ color: #00ff00;
+}
