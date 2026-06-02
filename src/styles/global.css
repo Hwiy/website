@@ -1,0 +1,59 @@
+:root {
+  --max: 960px;
+  --text: #1a1a1a;
+  --muted: #888;
+  --bg: #ffffff;
+}
+
+* { box-sizing: border-box; }
+
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--text);
+  font-family: -apple-system, "Helvetica Neue", Arial, sans-serif;
+  line-height: 1.6;
+}
+
+/* nav */
+.nav {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: 1rem 1.5rem;
+  padding: 1.25rem 1.5rem;
+  border-bottom: 1px solid #eee;
+}
+.nav .brand { font-weight: 700; text-decoration: none; color: var(--text); }
+.nav ul {
+  list-style: none; display: flex; flex-wrap: wrap;
+  gap: 0.25rem 1.25rem; margin: 0; padding: 0; font-size: 0.9rem;
+}
+.nav a { text-decoration: none; color: var(--text); }
+.nav a:hover { color: var(--muted); }
+
+main { max-width: var(--max); margin: 0 auto; padding: 2.5rem 1.5rem; }
+
+/* homepage gallery grid */
+.gallery {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 2rem;
+}
+.card { text-decoration: none; color: var(--text); }
+.card img {
+  width: 100%; aspect-ratio: 3/2; object-fit: cover; display: block;
+}
+.card h2 { font-size: 1rem; font-weight: 500; margin: 0.6rem 0 0; }
+.card:hover img { opacity: 0.85; }
+
+/* individual project page */
+.project h1 { font-size: 1.8rem; font-weight: 600; }
+.year { color: var(--muted); font-weight: 400; }
+.intro { max-width: 640px; }
+.image-column {
+  display: flex; flex-direction: column; gap: 2rem;
+  margin: 2.5rem 0;
+}
+.image-column img { width: 100%; display: block; }
+.statement { max-width: 640px; }
