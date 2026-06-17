@@ -9,6 +9,7 @@ const projects = defineCollection({
     order: z.number().default(0),   // controls position in nav + gallery
     cover: z.string(),              // path to the gallery thumbnail
     intro: z.string(),              // short paragraph under the title
+    video: z.string().optional(),   // video control
     images: z.array(z.string()),    // the photos shown in the column
   }),
 });

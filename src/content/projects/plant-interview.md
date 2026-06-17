@@ -5,9 +5,9 @@ order: 4
 cover: "/images/plant-interview/cover.jpg"
 intro: "Plant Interview was a series of interviews conducted in Chicago downtown to understand human perspectives on the plants in their surroundings."
 images:
-  - "/images/plant-interview/01.jpg"
+  - "/images/plant-interview/01.png"
   - "/images/plant-interview/02.jpg"
-  - "/images/plant-interview/03.jpg"
+  - "/images/plant-interview/03.png"
   - "/images/plant-interview/04.jpg"
   - "/images/plant-interview/05.jpg"
 ---

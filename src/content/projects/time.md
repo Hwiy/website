@@ -4,6 +4,7 @@ year: "2025"
 order: 2
 cover: "/images/time/01.jpg"
 intro: "Plant Interview was a series of interviews conducted in Chicago downtown to understand human perspectives on the plants in their surroundings."
+video: "jbWm0hVJ_To"
 images:
   - "/images/time/01.jpg"
   - "/images/time/02.jpg"

@@ -5,12 +5,15 @@ order: 1
 cover: "/images/ethereal-being/cover.jpg"
 intro: "A video and installation art project to explore self-transformation"
 images:
-  - "/images/ethereal-being/01.jpg"
-  - "/images/ethereal-being/02.jpg"
-  - "/images/ethereal-being/03.jpg"
-  - "/images/ethereal-being/04.jpg"
-  - "/images/ethereal-being/05.jpg"
-  - "/images/ethereal-being/06.jpg"
-  - "/images/ethereal-being/07.jpg"
-  - "/images/ethereal-being/08.jpg"
+  - "/images/ethereal-being/hwiy-ethereal-1.jpg"
+  - "/images/ethereal-being/hwiy-ethereal-2.jpg"
+  - "/images/ethereal-being/hwiy-ethereal-3.jpg"
+  - "/images/ethereal-being/hwiy-ethereal-4.jpg"
+  - "/images/ethereal-being/hwiy-ethereal-5.jpg"
+  - "/images/ethereal-being/hwiy-ethereal-6.jpg"
+  - "/images/ethereal-being/hwiy-ethereal-7.jpg"
+  - "/images/ethereal-being/hwiy-ethereal-8.jpg"
+  - "/images/ethereal-being/hwiy-ethereal-9.jpg"
 ---
+
+[Photo credits: David Hale, Keshia Eugene, & HWIY]

@@ -57,3 +57,18 @@ main { max-width: var(--max); margin: 0 auto; padding: 2.5rem 1.5rem; }
 }
 .image-column img { width: 100%; display: block; }
 .statement { max-width: 640px; }
+
+/* video formatting */
+.video-wrap {
+  position: relative;
+  width: 100%;
+  padding-top: 56.25%;
+  margin-bottom: 2rem;
+}
+.video-wrap iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}

@@ -12,13 +12,23 @@ export async function getStaticPaths() {
 
 const { project } = Astro.props;
 const { Content } = await render(project);
-const { title, year, intro, images } = project.data;
+const { title, year, intro, images, video } = project.data;
 ---
 <Base title={title}>
   <article class="project">
     <h1>{title} <span class="year">({year})</span></h1>
     <p class="intro">{intro}</p>
 
+    {video && (
+      <div class="video-wrap">
+        <iframe
+          src={'https://www.youtube.com/embed/${video}'}
+          frameborder="0"
+          allowfullscreen
+          ></iframe>
+          </div>
+    )}
+    
     <div class="image-column">
       {images.map((src) => (
         <img src={src} alt={title} loading="lazy" />
