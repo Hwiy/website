@@ -1,7 +1,7 @@
 ---
 title: "Plant Interview"
 year: "2023"
-order: 2
+order: 4
 cover: "/images/plant-interview/cover.jpg"
 intro: "Plant Interview was a series of interviews conducted in Chicago downtown to understand human perspectives on the plants in their surroundings."
 images:

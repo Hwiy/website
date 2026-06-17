@@ -1,7 +1,7 @@
 ---
 title: "Nature~Human"
 year: "2022–23"
-order: 1
+order: 3
 cover: "/images/nature-human/cover.jpg"
 intro: "Nature~Human examines the relationship humans have with nature, observing its presence in human-centric environments and where plant life flourishes with less intervention."
 images:
