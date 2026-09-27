@@ -1,8 +1,8 @@
 ---
-title: "The Ethereal Being That Is Me, And Maybe You"
+title: "Site for the Ethereal Being"
 year: "2026"
 order: 1
-cover: "/images/ethereal-being/cover.jpg"
+cover: "/images/ethereal-being/hwiy-ethereal-site-cover.jpg"
 intro: "A video and installation art project to explore self-transformation"
 images:
   - "/images/ethereal-being/hwiy-ethereal-1.jpg"
