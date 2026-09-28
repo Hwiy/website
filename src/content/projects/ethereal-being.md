@@ -14,4 +14,4 @@ images:
   - "/images/ethereal-being/hwiy-ethereal-8.jpg"
 ---
 
-[Photo credits: David Hale, Keshia Eugene, & HWIY]
+Photo credits: David Hale, Keshia Eugene, & HWIY
