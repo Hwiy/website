@@ -2,7 +2,7 @@
 title: "Time"
 year: "2025"
 order: 2
-cover: "/images/time/01.jpg"
+cover: "/images/time/hwiy-time-01.jpg"
 intro: "Time is an immersive video and audio installation that fills a 52-foot-long room in a continuous 30-minute loop. The work asks the audience to experience time through temporal elements found in nature, such as the movement of tree shadows, the sun, the moon, and the sky, along with the sounds of animals, insects, and wind. It was created to shift the focus of time from productivity to embodied elements that can be felt."
 video: "1230973884"
 images:

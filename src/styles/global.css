@@ -50,13 +50,13 @@ main { max-width: var(--max); margin: 0 auto; padding: 2.5rem 1.5rem; }
 /* individual project page */
 .project h1 { font-size: 1.8rem; font-weight: 600; }
 .year { color: var(--muted); font-weight: 400; }
-.intro { max-width: 640px; }
+.intro { max-width: 860px; }
 .image-column {
   display: flex; flex-direction: column; gap: 2rem;
   margin: 2.5rem 0;
 }
 .image-column img { width: 100%; display: block; }
-.statement { max-width: 640px; }
+.statement { max-width: 860px; }
 
 /* video formatting */
 .video-wrap {
