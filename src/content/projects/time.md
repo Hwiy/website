@@ -3,14 +3,10 @@ title: "Time"
 year: "2025"
 order: 2
 cover: "/images/time/01.jpg"
-intro: "Plant Interview was a series of interviews conducted in Chicago downtown to understand human perspectives on the plants in their surroundings."
-video: "jbWm0hVJ_To"
+intro: "Time is an immersive video and audio installation that fills a 52-foot-long room in a continuous 30-minute loop. The work is about experiencing time through embodied presence and sensory experience. Visually, it highlights the ever-changing movements of tree shadows, the sun, and the moon, while the soundscape layers animal calls and wind recorded at different times of day to reflect the true passage of time. Because it has no beginning or end, viewers can enter at any moment and find themselves in the middle of the piece, much as we step into the natural passage of a day."
+video: "1230973884"
 images:
-  - "/images/time/01.jpg"
-  - "/images/time/02.jpg"
-  - "/images/time/03.jpg"
-  - "/images/time/04.jpg"
-  - "/images/time/05.jpg"
+  - "/images/time/hwiy-time-01.jpg"
 ---
 
-[Plant Interview was a series of interviews conducted in Chicago downtown to understand human perspectives on the plants in their surroundings. The interviews took place on plant beds along Wabash and Michigan avenues. Passersby were approached by the artist and invited to speak on behalf of the plants, responding to plantal(personal) questions about the plants' characteristics, origins, and how they were doing. Human participants received no specific instructions on how to answer these questions, except that they had to speak for the plants.]
+[As technology and productivity continue to dominate our daily lives, our sensory relationship with the environment diminishes more. Clock time, screens, and scheduled routines draw us further from the movements of our planet. We live according to time zones and calendar alerts, not seasonal changes or the movement of the sun. Time is a small attempt to realign these two temporal systems—to create a space where natural time is visible and experientially felt.]
