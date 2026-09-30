@@ -14,4 +14,4 @@ images:
   - "/images/ethereal-being/hwiy-ethereal-poster.jpg"
 ---
 
-The Ethereal Being That Is Me, and Maybe You is a 23-minute video collection of short stories. This work exists as a visual and narrative meditation on self-transformation.
+You can watch a part of the video [here.] (https://youtu.be/eItnWza0vJc)
